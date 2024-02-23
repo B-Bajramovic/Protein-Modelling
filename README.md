@@ -1,5 +1,8 @@
 # Links
 
+### AlphaFold Guide 
+https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki/AlphaFold%E2%80%90ALICE
+
 ### AlphaPulldown Guide
 https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki 
 
