@@ -1,5 +1,8 @@
 # Links
 
+### Linux basics Guide
+https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki/Linux-%E2%80%90-Basics
+
 ### AlphaFold Guide 
 https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki/AlphaFold%E2%80%90ALICE
 
