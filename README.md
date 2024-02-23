@@ -4,7 +4,7 @@
 https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki/AlphaFold%E2%80%90ALICE
 
 ### AlphaPulldown Guide
-https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki 
+[https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki](https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki/AlphaPulldown%E2%80%90ALICE) 
 
 ### PyMOL basic Guide
 https://github.com/B-Bajramovic/AlphaPulldown-ALICE/wiki/PyMOL
